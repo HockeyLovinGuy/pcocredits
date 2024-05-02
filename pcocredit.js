@@ -6,7 +6,7 @@ async function getCredits(url) {
       method: 'GET',
       headers: {
         // Authorization header with your Planning Center API key
-        'Authorization': 'Bearer YOUR_API_KEY'
+        'Authorization': '67936a93232ea3c7a56e7a9f45fe9f521eb3574378a976af440b27b3b5b50111'
       }
     });
 
